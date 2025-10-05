@@ -6,6 +6,7 @@
 
 - アルファベット下段キー（`x`、`c`、`v`、`m`、`,`、`.`）の長押しで修飾キー`Alt`、`Ctrl`、`Shift` （Bottom row mods）
 - Capslock をEsc/Ctrlに置き換え（タップ→ `Esc`、 長押し → `Ctrl`）
+- `fj` 同時押しで `Esc`
 
 ## 使い方
 
