@@ -3,8 +3,9 @@
 (defsrc
   grv   1     2     3     4     5     6     7     8     9     0     -
   tab   q     w     e     r     t     y     u     i     o     p
-  caps  a     s     d     f     g     h     j     k     l     ;
+  caps  a     s     d     f     g     h     j     k     l     ;     ret
   lsft  z     x     c     v     b     n     m     ,     .     ro    rsft
+  lctl  lmet  lalt              spc               ralt  rmet  rctl
 )
 
 (defvar
@@ -26,8 +27,9 @@
 (deflayer base
   _     _     _     _     _     _     _     _     _     _     _     _
   _     _     _     _     _     _     _     _     _     _     _
-  @escctl _     _     _     _     _     _     _     _     _     _
+  @escctl _     _     _     _     _     _     _     _     _     _     _
   _     _     @x    @c    @v    _     _     @m    @,    @.    _     _
+  _     _     _                 _                 _     _     _
 )
 
 ;; input chords
