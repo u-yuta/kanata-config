@@ -34,5 +34,5 @@
 
 ;; input chords
 (defchordsv2
-  (f j)   esc 100 all-released  ()
+  (f j)   esc 60 all-released  ()
 )
